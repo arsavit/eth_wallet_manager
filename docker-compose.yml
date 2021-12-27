@@ -1,0 +1,10 @@
+services:
+  app:
+    build:
+      context: .
+      target: app
+
+  dev:
+    build:
+      context: .
+      target: dev

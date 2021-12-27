@@ -1,0 +1,8 @@
+.*
+build
+
+!.gitignore
+!.pre-commit-config.yaml
+!.golangci.yml
+!.github
+!.dockerignore
