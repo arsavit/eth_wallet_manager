@@ -1,1 +1,1 @@
-# Learn backend app
+# ETH wallet manager
